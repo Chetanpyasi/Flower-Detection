@@ -16,7 +16,7 @@ flower-classification/
 ├── iris.names                              # Dataset description
 ├── SVM.pickle                              # Pre-trained SVM model
 ├── main.pdf                                # Project report
-├── requirments.txt                         # Dependencies (typo: should be requirements.txt)
+├── requirements.txt                        # Dependencies 
 └── README.md                               # Project documentation
 ```
 
