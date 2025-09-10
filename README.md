@@ -47,8 +47,6 @@ cd flower-classification
 pip install -r requirements.txt
 ```
 
-> ⚠️ Note: The file is currently named `requirments.txt`. Please rename it to `requirements.txt` before installing.
-
 ---
 
 ## 🚀 Usage
